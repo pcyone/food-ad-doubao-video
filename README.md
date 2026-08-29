@@ -1,5 +1,11 @@
 # 美食广告成片 Skill
 
+
+https://github.com/user-attachments/assets/c08c13a2-cedf-4500-838f-d3e338be22be
+
+
+
+
 `food-ad-doubao-video` 是一个面向 Codex 的端到端竖屏美食广告 Skill。它可以从菜品名开始，完成分镜提示词、Google Flow 视频生成、豆包连续口播、原声氛围混音、1080×1920 合成，以及 `ffprobe`、黑场、音量和关键帧验收。
 
 
