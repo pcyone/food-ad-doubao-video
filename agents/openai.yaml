@@ -1,0 +1,4 @@
+interface:
+  display_name: "美食广告成片"
+  short_description: "从 Flow 分镜生成到豆包配音、竖屏合成与成片验收"
+  default_prompt: "使用 $food-ad-doubao-video 从选菜、Flow 分镜生成、豆包连续口播到 40 秒竖屏成片和验收。"
